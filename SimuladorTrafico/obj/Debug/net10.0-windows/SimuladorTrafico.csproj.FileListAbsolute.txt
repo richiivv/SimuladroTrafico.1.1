@@ -1,0 +1,16 @@
+C:\Users\Ricardo\Downloads\SimuladorTrafico-master\SimuladorTrafico\bin\Debug\net10.0-windows\SimuladorTrafico.exe
+C:\Users\Ricardo\Downloads\SimuladorTrafico-master\SimuladorTrafico\bin\Debug\net10.0-windows\SimuladorTrafico.deps.json
+C:\Users\Ricardo\Downloads\SimuladorTrafico-master\SimuladorTrafico\bin\Debug\net10.0-windows\SimuladorTrafico.runtimeconfig.json
+C:\Users\Ricardo\Downloads\SimuladorTrafico-master\SimuladorTrafico\bin\Debug\net10.0-windows\SimuladorTrafico.dll
+C:\Users\Ricardo\Downloads\SimuladorTrafico-master\SimuladorTrafico\bin\Debug\net10.0-windows\SimuladorTrafico.pdb
+C:\Users\Ricardo\Downloads\SimuladorTrafico-master\SimuladorTrafico\obj\Debug\net10.0-windows\SimuladorTrafico.FormPrincipal.resources
+C:\Users\Ricardo\Downloads\SimuladorTrafico-master\SimuladorTrafico\obj\Debug\net10.0-windows\SimuladorTrafico.csproj.GenerateResource.cache
+C:\Users\Ricardo\Downloads\SimuladorTrafico-master\SimuladorTrafico\obj\Debug\net10.0-windows\SimuladorTrafico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\Downloads\SimuladorTrafico-master\SimuladorTrafico\obj\Debug\net10.0-windows\SimuladorTrafico.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Downloads\SimuladorTrafico-master\SimuladorTrafico\obj\Debug\net10.0-windows\SimuladorTrafico.AssemblyInfo.cs
+C:\Users\Ricardo\Downloads\SimuladorTrafico-master\SimuladorTrafico\obj\Debug\net10.0-windows\SimuladorTrafico.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Downloads\SimuladorTrafico-master\SimuladorTrafico\obj\Debug\net10.0-windows\SimuladorTrafico.dll
+C:\Users\Ricardo\Downloads\SimuladorTrafico-master\SimuladorTrafico\obj\Debug\net10.0-windows\refint\SimuladorTrafico.dll
+C:\Users\Ricardo\Downloads\SimuladorTrafico-master\SimuladorTrafico\obj\Debug\net10.0-windows\SimuladorTrafico.pdb
+C:\Users\Ricardo\Downloads\SimuladorTrafico-master\SimuladorTrafico\obj\Debug\net10.0-windows\SimuladorTrafico.genruntimeconfig.cache
+C:\Users\Ricardo\Downloads\SimuladorTrafico-master\SimuladorTrafico\obj\Debug\net10.0-windows\ref\SimuladorTrafico.dll
